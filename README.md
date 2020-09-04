@@ -7,7 +7,7 @@ After cloning the repo, add the repo directory to your MATLAB path.
 
 At the MATLAB prompt, type:
 
-  >>> GenerateTonesEqTemp
+  GenerateTonesEqTemp
   
 and MATLAB will play audio for you. 
 
@@ -20,7 +20,8 @@ Great for guitarists & other folks who might not have a piano (I currently do no
 * Pull Requests Welcome!
 
 * This version uses equal temperment. I plan on making a version that supports perfect tuning
-  (aka Just Intonation) but if that sounds like fun to you go for it.
+  (aka Just Intonation) but if that sounds like fun to you go for it. In the same vein, 
+  alternate scales (minor, modal, atonal) etc. will make you a better musician.
   
 * Adding Harmonics
   This version uses pure sine waves. If you want to add harmonics, that would be sweet.
